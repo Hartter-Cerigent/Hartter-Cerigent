@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ - Current freshman with wide interets.
+ - 🌱 I’m currently learning maths, online open courses of cs and reading some books like devour the daily meals, sometimes relentless.
+ - 🤔 I’m looking for help with my passion for life so I come here to read to get inspirations.
 <!--
 **Hartter-Cerigent/Hartter-Cerigent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
